@@ -1,0 +1,41 @@
+name: No Time To Scream Issue
+description: File a bug report
+title: "[No Time To Scream]: "
+labels: ["bug", "No Time To Scream"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Use this form to report an issue with the No Time To Scream
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: What happened?
+      description: Also tell us, what did you expect to happen?
+      placeholder: Tell us what you see!
+      value: "A bug happened!"
+    validations:
+      required: true
+  - type: dropdown
+    id: package
+    attributes:
+      label: Which compatible Foundry VTT version are you using
+      multiple: false
+      options:
+      - "13"
+    validations:
+      required: true
+  - type: input
+    id: version
+    attributes:
+      label: Version
+      description: What version of the module?
+      placeholder: 1.0.0
+    validations:
+      required: true
+  - type: textarea
+    id: logs
+    attributes:
+      label: Relevant log output
+      description: Please copy and paste any relevant log output. This will be automatically formatted into code, so no need for backticks.
+      render: shell
