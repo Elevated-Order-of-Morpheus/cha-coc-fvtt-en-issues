@@ -1,12 +1,12 @@
-name: Keeper Items Issue
+name: Core Content Issue
 description: File a bug report
-title: "[Keeper Items]: "
-labels: ["bug", "Keeper Items"]
+title: "[Core Content]: "
+labels: ["bug", "Core Content"]
 body:
   - type: markdown
     attributes:
       value: |
-        Use this form to report an issue with the Keeper Items
+        Use this form to report an issue with the Core Content
   - type: textarea
     id: what-happened
     attributes:
