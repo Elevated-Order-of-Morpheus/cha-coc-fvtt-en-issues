@@ -9,7 +9,7 @@ Use this repository to submit issues for the following products:
 * Keeper Items - https://www.foundryvtt.store/products/cha-coc-fvtt-en-keeperitems
 * Quick Start Rules - https://foundryvtt.com/packages/cha-coc-fvtt-en-quickstart
 * Starter Set - https://www.foundryvtt.store/products/cha-coc-fvtt-en-starterset
+* No Time To Scream - https://foundryvtt.com/packages/cha-coc-fvtt-en-notimetoscream
 
 Unreleased products:
-
-* No Time To Scream
+* The Order of the Stone
