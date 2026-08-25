@@ -22,7 +22,7 @@ body:
       label: Which compatible Foundry VTT version are you using
       multiple: false
       options:
-      - "13"
+      - "14"
     validations:
       required: true
   - type: input
@@ -30,7 +30,7 @@ body:
     attributes:
       label: Version
       description: What version of the module?
-      placeholder: 1.0.0
+      placeholder: 0.0.2
     validations:
       required: true
   - type: textarea
