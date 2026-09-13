@@ -10,6 +10,8 @@ Use this repository to submit issues for the following products:
 * Quick Start Rules - https://foundryvtt.com/packages/cha-coc-fvtt-en-quickstart
 * Starter Set - https://www.foundryvtt.store/products/cha-coc-fvtt-en-starterset
 * No Time To Scream - https://foundryvtt.com/packages/cha-coc-fvtt-en-notimetoscream
+* Arkham - https://foundryvtt.com/packages/cha-coc-fvtt-en-arkham
+* No Time To Scream - https://foundryvtt.com/packages/cha-coc-fvtt-en-theorderofthestone
 
 Unreleased products:
-* The Order of the Stone
+* ?
