@@ -14,4 +14,4 @@ Use this repository to submit issues for the following products:
 * The Order of the Stone - https://foundryvtt.com/packages/cha-coc-fvtt-en-theorderofthestone
 
 Unreleased products:
-* ?
+* Pulp Cthulhu
